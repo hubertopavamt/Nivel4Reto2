@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Jackets</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">JACKETS INC.</string>
+    <string name="nav_header_subtitle">Chaquetas By MINTIC 2022</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Productos</string>
+    <string name="menu_slideshow">Servicios</string>
+    <string name="menu_sucursales">Sucursales</string>
+</resources>
